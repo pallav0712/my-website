@@ -1,2 +1,2 @@
 # my-website
-This is an awesome website.
+This is an awesome personal website.
